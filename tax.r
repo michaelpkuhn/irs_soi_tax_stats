@@ -163,6 +163,132 @@ chi_total %>%
 # Total Standard Deduction
 ## Variable 59 - Number of Returns
 ## Variable 60 - Amount
+#-# Basic Standard Deduction ?
+### Variable 61 - Number of Returns
+### Variable 62 - Amount
+# Additional Standard Deduction
+## Variable 63 - Number of Returns
+## Variable 64 - Amount
+# Itemized Deduction
+## Total
+### Variable 65 - Number of Returns
+### Variable 66 - Amount
+### Variable 67 - Amount of AGI
+## Total medical and dental expenses deductions
+### Variable 68 - Number of Returns
+### Variable 69 - Amount
+## State and local income taxes
+### Variable 70 - Number of Returns
+### Variable 71 - Amount
+## State and local general sales tax
+### Variable 72 - Number of Returns
+### Variable 73 - Amount
+## Real estate taxes
+### Variable 74 - Number of Returns
+### Variable 75 - Amount
+## Personal property taxes
+### Variable 76 - Number of Returns
+### Variable 77 - Amount
+## Limited state and local taxes paid
+### Variable 78 - Number of Returns
+### Variable 79 - Amount
+## Total taxes paid
+### Variable 80 - Number of Returns
+### Variable 81 - Amount
+## Home mortgage interest paid
+### Variable 82 - Number of Returns
+### Variable 83 - Amount
+## Home mortgage interest paid to personal seller
+### Variable 84 - Number of Returns
+### Variable 85 - Amount
+## Deductible points
+### Variable 86 - Number of Returns
+### Variable 87 - Amount
+## Qualified mortgage insurance premiums
+### Variable 88 - Number of Returns
+### Variable 89 - Amount
+## Investment interest paid
+### Variable 90 - Number of Returns
+### Variable 91 - Amount
+## Total charitable contributions
+### Variable 92 - Number of Returns
+### Variable 93 - Amount
+## Other non-limited miscellaneous deduction
+### Variable 94 - Number of Returns
+### Variable 95 - Amount
+## Qualified business income deduction
+### Variable 96 - Number of Returns
+### Variable 97 - Amount
+# Taxable Income
+## Variable 98 - Number of Returns
+## Variable 99 - Amount
+# Income tax before credits
+## Variable 100 - Number of Returns
+## Variable 101 - Amount
+# Alternative minimum tax
+## Variable 102 - Number of Returns
+## Variable 103 - Amount
+# Excess advance premium tax credit repayment
+## Variable 104 - Number of Returns
+## Variable 105 - Amount
+# Total tax credit [10]
+## Variable 106 - Number of Returns
+## Variable 107 - Amount
+## Foreign tax credit
+### Variable 108 - Number of Returns
+### Variable 109 - Amount
+## Child and dependant care credit
+### Variable 110 - Number of Returns
+### Variable 111 - Amount
+## Nonrefundable education credit
+### Variable 112 - Number of Returns
+### Variable 113 - Amount
+## Retirment savings contributions credit
+### Variable 114 - Number of Returns
+### Variable 115 - Amount
+## Child and other dependent credit
+### Variable 116 - Number of Returns
+### Variable 117 - Amount
+## Residential energy tax credit 
+### Variable 118 - Number of Returns
+### Variable 119 - Amount
+## Self-employment tax
+### Variable 120 - Number of Returns
+### Variable 121 - Amount
+## Total premium tax credit
+### Variable 122 - Number of Returns
+### Variable 123 - Amount
+## Advance premium tax credit
+### Variable 124 - Number of Returns
+### Variable 125 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+
+# save for later
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+## Total tax payments
+### Variable 126 - Number of Returns
+### Variable 127 - Amount
+
+
 
 
 
